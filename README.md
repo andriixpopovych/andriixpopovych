@@ -1,17 +1,36 @@
-# Andrii Popovych 💻
+# Andrii Popovych 🖥️
 
-### Software Engineering Student @ FIIT STU Bratislava
-Backend Developer focused on Java, Systems Programming, and Network Protocols.
+### Backend Developer | Systems Engineer
+*Focused on high-performance Java applications and network protocols.*
 
 ---
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🎓 Education
+<p align="left">
+  <a href="https://www.uzhnu.edu.ua/">
+    <img src="https://moodle.uzhnu.edu.ua/pluginfile.php/1/core_admin/logocompact/300x300/1756814955/UzNU_logo_new2.png" alt="Uzhhorod National University" height="60px" style="padding-right: 20px;"/>
+  </a>
+  <a href="https://www.fiit.stuba.sk/">
+    <img src="https://elvira.fiit.stuba.sk/assets/fiit/stu/logo-dark.png" alt="FIIT STU" height="60px"/>
+  </a>
+</p>
+
+* **FIIT STU Bratislava** | Faculty of Informatics and Information Technologies
+* **Uzhhorod National University** | Faculty of Information Technologies
+
+---
+
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -27,11 +46,5 @@ Backend Developer focused on Java, Systems Programming, and Network Protocols.
 
 ---
 
-### 📊 Stats & Activity
-![Andrii's Stats](https://github-readme-stats.vercel.app/api?username=andriixpopovych&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriixpopovych&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 📫 Contact
-[LinkedIn](https://linkedin.com/in/andrii-popovych-84972b342)
+[LinkedIn](https://linkedin.com/in/andrii-popovych-84972b342) | [Email](mailto:popovich29092005@gmail.com)
