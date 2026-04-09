@@ -7,13 +7,12 @@
 ## 🎓 Education
 <p align="left">
   <a href="https://www.uzhnu.edu.ua/">
-    <img src="https://moodle.uzhnu.edu.ua/pluginfile.php/1/core_admin/logocompact/300x300/1756814955/UzNU_logo_new2.png" alt="Uzhhorod National University" width="100px" style="vertical-align: middle; margin-right: 30px;"/>
+    <img src="https://moodle.uzhnu.edu.ua/pluginfile.php/1/core_admin/logocompact/300x300/1756814955/UzNU_logo_new2.png" alt="Uzhhorod National University" width="120px" style="vertical-align: middle; margin-right: 30px;"/>
   </a>
   <a href="https://www.fiit.stuba.sk/">
-    <img src="https://elvira.fiit.stuba.sk/assets/fiit/stu/logo-dark.png" alt="FIIT STU" width="200px" style="vertical-align: middle;"/>
+    <img src="https://elvira.fiit.stuba.sk/assets/fiit/stu/logo-dark.png" alt="FIIT STU" width="220px" style="vertical-align: middle;"/>
   </a>
 </p>
-**FIIT STU Bratislava** | **Uzhhorod National University**
 
 ---
 
